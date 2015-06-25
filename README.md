@@ -1,4 +1,4 @@
-# advertisement-recommendation-social-media-websites
+
 1. Introduction:
 
 1.1 Project Definition: "Social Advertising represents ad formats that engage the social context of the user viewing the ad. Whereas in traditional, non-social advertising, the ad is targeted based on what it knows about the individual person or the individual page, in social advertising the ad is targeted based on what it knows about the individual user's social network." It basically includes four different types of people.
